@@ -18,7 +18,7 @@ model_detect = YOLO('yolov8n.pt')
 root = "C:/Users/Buu/PycharmProjects/Video_streaming_flask_ngrok/New_Faces/"
 
 nest_asyncio.apply()
-my_token = "7485186086:AAG6T4-iMv9LfQpytTfKjHYxmYPgeyWy3R8"
+my_token = "XXX"
 bot = telegram.Bot(token=my_token)
 
 @app.route("/")
