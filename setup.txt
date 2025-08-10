@@ -1,0 +1,7 @@
+flask
+opencv-python
+flask-ngrok
+ultralytics
+python-telegram-bot
+asyncio
+nest_asyncio
